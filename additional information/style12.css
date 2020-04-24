@@ -1,0 +1,19 @@
+h1 {
+    display: inline-block;
+    font-family: 'Yeon Sung', cursive;
+}
+
+h2 {
+    font-family: 'Sunshiney', cursive;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    font-family: 'Sunshiney', cursive;
+}
+
+
+body {
+    background-color: rgb(89, 14, 150);
+}

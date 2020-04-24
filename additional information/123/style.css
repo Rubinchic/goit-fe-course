@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box {
+    width: 800px;
+    height: 400px;
+    background: url('https://placeimg.com/800/400/animals') no-repeat;
+  }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .box {
+      background: url('https://placeimg.com/1600/800/teche') no-repeat;
+    }
+  }

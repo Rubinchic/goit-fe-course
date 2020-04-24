@@ -1,0 +1,50 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+@font-face {
+    font-family: 'Gupter', serif,'Girassol', cursive;
+    src: url(./Girassol/Girassol-Regular.ttf);
+    src: url(./Gupter/Gupter-Regular.ttf);
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    /* background-color: black; */
+    border-color: cadetblue;
+    width: 180px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.name {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Girassol', cursive;
+}
+
+.email {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Gupter', serif,'Girassol', cursive;
+}
+
+.comment {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+    width: 200px;
+    font-family: 'Girassol', cursive;
+}
+
+.submit {
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+    height: 40px;
+    color: white;
+    background-color: orangered;
+    border-style: none;
+}

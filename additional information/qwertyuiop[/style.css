@@ -1,0 +1,60 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.site-header {
+    height: 770px;
+    background-image: url(./img/123.jpg);
+    padding-top: 40px;
+    color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo-link{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.site-logo{}
+
+.site-nav {
+
+display: inline-block;
+margin-bottom: 0px;
+}
+
+.container {
+    width: 1140;
+    margin: 0 auto;
+}
+
+.navigation-list {
+    display: inline-block;
+    width: 1320px;
+    text-decoration: none;
+    text-align: right;
+}
+
+.navigation-list__item {
+    display: inline;
+    margin-right: 25px;
+}
+
+.navigation-link {
+    text-decoration: none;
+    color: #efe6e6;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 24px;
+}
+
+.header-content {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(43, 4, 88, 0.726);
+}
