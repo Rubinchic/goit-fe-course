@@ -83,11 +83,6 @@ body {
 /*---------------------*/
 
 .section1 {
-    height: 900px;
+    height: 1100px;
     background: rgba(118, 51, 173, 0.781);
-}
-
-.section2 {
-    height: 700px;
-    background: rgba(144, 204, 47, 0.877);
 }
